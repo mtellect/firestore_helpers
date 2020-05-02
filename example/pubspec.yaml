@@ -13,7 +13,7 @@ environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
  
 dependencies:
-  cloud_firestore: any
+  cloud_firestore: ^0.13.4+2
   jaguar_serializer: any 
   firestore_helpers:
     path: ..\
